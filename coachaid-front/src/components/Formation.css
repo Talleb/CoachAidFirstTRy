@@ -1,0 +1,17 @@
+.formation {
+   background-color: rgba(255, 255, 255, 1);
+   border: 2px solid gray;
+   width: 28vmax;
+   padding: 1.05em;
+   margin-top: 1em;
+   border-radius: 0.2em;
+   display: inline-block;
+   overflow: hidden;
+   /* box-shadow: rgba(128, 128, 128, 0.3) 0.5em 0.5em; */
+   box-shadow: rgba(255, 255, 255, 0.3) 0.4em 0.4em;
+   color: darkslategray;
+}
+
+image {
+   object-fit: contain; 
+}

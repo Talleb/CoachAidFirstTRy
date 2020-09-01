@@ -1,0 +1,20 @@
+.scoreboard {
+   background-color: rgba(255, 255, 255, 1);
+   /* border: 2px solid gray; */
+   border: 2px solid  rgba(128, 128, 128, 0.3);
+   width: 28vmax;
+   padding: 3.1em 1.5em 3.1em 1.5em;
+   margin-top: 1em;
+   margin-right: 2em;
+   margin-left: 2em;
+   border-radius: 0.2em;
+   display: inline-block;
+   overflow: hidden;
+   box-shadow: rgba(128, 128, 128, 0.3) 0.4em 0.4em;
+   /* box-shadow: rgba(255, 255, 255, 0.3) 0.4em 0.4em; */
+   color: darkslategray;
+}
+
+h1 {
+    font-size: 1.8em;
+}
